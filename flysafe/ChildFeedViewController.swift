@@ -25,8 +25,8 @@ class ChildFeedViewController: UIViewController {
         
         count += 1
         
-        if (count > 12){
-            count = 12
+        if (count > 11){
+            count = 11
         }
         // old functional form
         //        let jsonURLString = "http://18.234.138.32:10089/Baggage_Claim_Notifications/interactions"
@@ -54,7 +54,7 @@ class ChildFeedViewController: UIViewController {
                                     
                                     
                                     ["status":"Special Request",
-                                     "body":"Wheel Chair assistants has been fullfiled."],
+                                     "body":"Wheel Chair Assistance has been fullfiled."],
                                     ["status":"Efren is ready for security check",
                                      "body":""],
                                     ["status":"Heading to their gate",

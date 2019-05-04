@@ -272,7 +272,7 @@
                                     <constraint firstAttribute="width" constant="108" id="xtL-Nf-Qt8"/>
                                 </constraints>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Group 42" translatesAutoresizingMaskIntoConstraints="NO" id="3DE-0K-b4q" userLabel="efren">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="kevin_aa" translatesAutoresizingMaskIntoConstraints="NO" id="3DE-0K-b4q" userLabel="efren">
                                 <rect key="frame" x="18" y="100" width="339" height="86"/>
                             </imageView>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="whitebox" translatesAutoresizingMaskIntoConstraints="NO" id="qCm-eW-lmW">
@@ -627,7 +627,6 @@
     </scenes>
     <resources>
         <image name="FollowAlong_login" width="375" height="812"/>
-        <image name="Group 42" width="340" height="86"/>
         <image name="Group 85" width="212.66667175292969" height="53"/>
         <image name="Group 88" width="111" height="76.666664123535156"/>
         <image name="Group 90" width="113" height="76.666664123535156"/>
@@ -635,6 +634,7 @@
         <image name="Image 2" width="375" height="812"/>
         <image name="check" width="34" height="26"/>
         <image name="dog" width="1000" height="1333"/>
+        <image name="kevin_aa" width="340" height="86"/>
         <image name="magnifier" width="24" height="24"/>
         <image name="suitcase-with-white-details-3" width="24" height="24"/>
         <image name="whitebox" width="340" height="188"/>
